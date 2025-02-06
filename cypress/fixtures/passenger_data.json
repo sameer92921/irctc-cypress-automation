@@ -5,7 +5,8 @@
   "SOURCE_STATION": "DEOS",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "GZB",
-  "TATKAL": true,
+  "TATKAL": false,
+  "GENERAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
